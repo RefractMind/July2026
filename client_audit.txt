@@ -1,0 +1,6 @@
+Client: Alpha Tech Solutions
+Sector: Fintech 
+Annual Revenue: $50M
+Debt Ratio: 0.45
+Qutstanding Audits: 2 
+Status: Under Review 
