@@ -1,0 +1,6 @@
+Client: Global Dynamics
+Sector: Manufacturing 
+Revenue: $1.2B
+Debt_Ratio: 0.72
+Last_Audit: May 2022 
+Status: Under Review 
