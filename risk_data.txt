@@ -1,0 +1,5 @@
+Customer: Alpha Tech
+Sector: Finance 
+Debt Ratio: 0.65
+Credit Score: 890
+ 
